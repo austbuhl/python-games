@@ -1,1 +1,4 @@
-# python-game
+# python-games
+
+- pong
+- tetris
